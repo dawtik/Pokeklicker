@@ -1,0 +1,14 @@
+[
+  {"name": "Pidgey", "rarity": "common", "hp": 30},
+  {"name": "Rattata", "rarity": "common", "hp": 25},
+  {"name": "Caterpie", "rarity": "common", "hp": 20},
+  {"name": "Zubat", "rarity": "common", "hp": 28},
+  {"name": "Oddish", "rarity": "common", "hp": 26},
+
+  {"name": "Ponyta", "rarity": "rare", "hp": 50},
+  {"name": "Growlithe", "rarity": "rare", "hp": 55},
+  {"name": "Poliwhirl", "rarity": "rare", "hp": 60},
+
+  {"name": "Dragonair", "rarity": "epic", "hp": 100},
+  {"name": "Mewtwo", "rarity": "legendary", "hp": 150}
+]
